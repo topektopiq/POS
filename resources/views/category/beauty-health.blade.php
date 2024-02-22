@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>POS | Landing Page</title>
+    <title>Category | Beauty Health</title>
 </head>
 <body>
-    <h1>Welcome to Landing Page</h1>
+    <h1>Products on category Beauty Health</h1>
 </body>
 </html>
